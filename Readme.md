@@ -19,5 +19,5 @@ docker run quaqmre/fiyatbot:v1 \
     -from=sender@mail
     -to=receiver@mail
     -pass=smtpPasswprd 
-    -price=triggerPrice
+    -price=triggerPrice(6000000=6bintl)
     -interval=(minute)
