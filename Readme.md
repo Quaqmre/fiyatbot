@@ -14,7 +14,8 @@ fiyatbot \
 ```
 
 ```console
-docker run quaqmre/fiyatbot:v1 \
+docker run quaqmre/fiyatbot:v4 \
+    fiyatbot \
     -item=https://www.epey.com/laptop/dell-inspiron-5490-s510f82n.html \
     -itemName=inspiron5490i7 \
     -smtp=smtp.gmail.com \
