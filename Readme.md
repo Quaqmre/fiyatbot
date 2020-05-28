@@ -1,5 +1,7 @@
 Its work on epey.com 
 
+Select your item in epey and add sender-receiver mail addres then if your item price under your triggerPrice will send mail
+
 fiyatbot \
     -item=https://www.epey.com/laptop/dell-inspiron-5490-s510f82n.html \
     -itemName=inspiron5490i7
